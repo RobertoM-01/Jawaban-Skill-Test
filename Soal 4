@@ -1,0 +1,19 @@
+Analisis
+1. cara importnya kurang benar seharusnya (  import React, { Component } from 'react'; ) 
+2. cara import logo nya kurang benar seharusnya ( <img src={‘./logo.svg}   />  )
+3. import komponen kurang benar seharusnya ( import React from 'react';
+import './App.css'; )
+9-20 . seharusnya seperti ini
+<img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+ 
